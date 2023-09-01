@@ -1,7 +1,4 @@
-# Responsive Web Design - FreeCodeCamp Certification
+# Responsive Web Design - FreeCodeCamp 
 
-In this Responsive Web Design Certification, i learned the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+In this Web Design Certification, i've learned the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
 
-First, i've build a cat photo app to learn the basics of HTML and CSS. Later, i learned modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a quiz site.
-
-Finally, i learned how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
